@@ -1,4 +1,4 @@
-Assignment 1 Lesson Learned:
+**Assignment 1 Lesson Learned:** 
 
 
 
@@ -22,6 +22,14 @@ I lerned some quick functions in Excel. Mean, Minimum, and Average was used to d
 
 
 
-Assignment 2 Lesssons Learned:
+**Assignment 2 Lesssons Learned:**
+
+
+
+- LEARN how to use IF to determine how MUCH overtime a person worked.
+  
+  - Think of this as a type of condition.
+
+
 
 
